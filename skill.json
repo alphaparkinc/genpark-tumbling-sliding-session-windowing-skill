@@ -1,0 +1,13 @@
+{
+  "name": "genpark-tumbling-sliding-session-windowing-skill",
+  "version": "1.0.0",
+  "description": "High-throughput stream window processor supporting tumbling, sliding, and dynamic inactivity-gap session windows over out-of-order event streams.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "stream-processing",
+    "tumbling-window",
+    "sliding-window",
+    "session-window"
+  ]
+}
